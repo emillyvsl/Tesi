@@ -8,6 +8,8 @@ class Tela:
         #self.janela.resizable( width=False,height=True)
         #barra de rolagem
 
+
+
         scb_barra = tk.Scrollbar(self.janela)
         scb_barra.pack(side=tk.RIGHT,fill=tk.Y)
 
